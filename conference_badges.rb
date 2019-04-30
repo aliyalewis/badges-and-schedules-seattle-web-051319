@@ -8,5 +8,5 @@ end
 
 def assign_rooms(speaker)
   new_room = []
-  speaker.each.with_index  
+  speaker.each.with_index
 end

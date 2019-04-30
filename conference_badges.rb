@@ -22,5 +22,3 @@ def printer(attendee)
     room
   end
 end
-
-  

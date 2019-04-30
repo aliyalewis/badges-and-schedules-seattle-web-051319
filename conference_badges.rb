@@ -13,3 +13,14 @@ def assign_rooms(speaker)
   end
   room
 end
+
+def printer(attendee)
+  batch_badge_creator.each do |name|
+    name
+  end
+  assign_rooms.each do |room|
+    room
+  end
+end
+  
+  

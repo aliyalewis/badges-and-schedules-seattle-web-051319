@@ -12,3 +12,4 @@ def assign_rooms(speaker)
   #room[name] = room_number
   return "Hello, #{speaker}! You'll be assigned to room #{room}!"
 end
+end
